@@ -33,3 +33,4 @@ Latency (Rough numbers based on my testing. I did the test by running test event
 - Cold write with a small database takes around 1 - 1.5 seconds
 - Warm write with a small database takes around 800 miliseconds to 1 second
 
+You can find more information and other projects on [https://www.projectferris.com/?page_name=AWSServerlessDB](https://www.projectferris.com/?page_name=AWSServerlessDB)
