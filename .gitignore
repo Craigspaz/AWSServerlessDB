@@ -4,3 +4,4 @@ db_function.zip
 deadlock_fix_function.zip
 terraform.tfstate
 terraform.tfstate.backup
+db_filler_upper.py
